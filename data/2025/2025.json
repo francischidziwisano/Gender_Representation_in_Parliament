@@ -1,0 +1,4954 @@
+{
+        " Mzuzu City": [
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "25086",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "15013",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "12782",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "988",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "595",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "550",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "154",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "116",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "109",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "69",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "53",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "43",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "42",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "41",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "35",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "18",
+                "comments": "MEC"
+            },
+            {
+                "district": " Mzuzu City",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "11",
+                "comments": "MEC"
+            }
+        ],
+        "Balaka": [
+            {
+                "district": "Balaka",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "120021",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "4543",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "3389",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "3343",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "914",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "324",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "280",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "265",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "237",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "228",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "194",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "156",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "147",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "80",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "39",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "31",
+                "comments": "MEC"
+            },
+            {
+                "district": "Balaka",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "25",
+                "comments": "MEC"
+            }
+        ],
+        "Blantyre": [
+            {
+                "district": "Blantyre",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "118691",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "5158",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "5002",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "3568",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "687",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "297",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "279",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "277",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "262",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "236",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "137",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "136",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "89",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "56",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "53",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "29",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "23",
+                "comments": "MEC"
+            }
+        ],
+        "Blantyre City": [
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "197532",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "25572",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "17419",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "4783",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "1087",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "952",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "386",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "224",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "161",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "159",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "126",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "120",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "98",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "62",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "48",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "39",
+                "comments": "MEC"
+            },
+            {
+                "district": "Blantyre City",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "30",
+                "comments": "MEC"
+            }
+        ],
+        "Chikwawa": [
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "187283",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "7290",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "3227",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "2736",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "1567",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "754",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "634",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "601",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "559",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "516",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "377",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "319",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "175",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "128",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "103",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "103",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chikwawa",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "82",
+                "comments": "MEC"
+            }
+        ],
+        "Chiradzulu": [
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "117098",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "2116",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "1919",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "1834",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "519",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "285",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "206",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "205",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "168",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "164",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "151",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "151",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "68",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "63",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "29",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "26",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chiradzulu",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "21",
+                "comments": "MEC"
+            }
+        ],
+        "Chitipa": [
+            {
+                "district": "Chitipa",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "35827",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "13936",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "9035",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "4743",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "687",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "667",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "535",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "436",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "271",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "228",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "153",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "141",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "109",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "77",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "50",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "33",
+                "comments": "MEC"
+            },
+            {
+                "district": "Chitipa",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "30",
+                "comments": "MEC"
+            }
+        ],
+        "Dedza": [
+            {
+                "district": "Dedza",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "169710",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "44576",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "8040",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "5996",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "5035",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "3334",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "2354",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "1938",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "1525",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "815",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "669",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "357",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "306",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "272",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "192",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "170",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dedza",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "139",
+                "comments": "MEC"
+            }
+        ],
+        "Dowa": [
+            {
+                "district": "Dowa",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "216091",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "15906",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "3585",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "3534",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "3522",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "1429",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "1290",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "617",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "443",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "314",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "276",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "209",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "167",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "127",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "105",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "94",
+                "comments": "MEC"
+            },
+            {
+                "district": "Dowa",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "89",
+                "comments": "MEC"
+            }
+        ],
+        "Karonga": [
+            {
+                "district": "Karonga",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "45525",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "19072",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "6867",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "5249",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "1332",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "824",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "669",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "617",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "444",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "265",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "174",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "163",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "129",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "75",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "71",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "47",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "29",
+                "comments": "MEC"
+            }
+        ],
+        "Karonga Town": [
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "8971",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "4388",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "3413",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "269",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "182",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "120",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "104",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "101",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "71",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "58",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "32",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "26",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "16",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "11",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "5",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "3",
+                "comments": "MEC"
+            },
+            {
+                "district": "Karonga Town",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "2",
+                "comments": "MEC"
+            }
+        ],
+        "Kasungu": [
+            {
+                "district": "Kasungu",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "160210",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "50182",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "5106",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "5015",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "2636",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "1268",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "1082",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "803",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "731",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "415",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "365",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "313",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "220",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "186",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "169",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "89",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "70",
+                "comments": "MEC"
+            }
+        ],
+        "Kasungu Municipality ": [
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "8818",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "7831",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "1019",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "229",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "75",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "65",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "26",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "18",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "18",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "12",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "9",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "5",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "3",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "2",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "2",
+                "comments": "MEC"
+            },
+            {
+                "district": "Kasungu Municipality ",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "2",
+                "comments": "MEC"
+            }
+        ],
+        "Likoma": [
+            {
+                "district": "Likoma",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "4177",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "1817",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "485",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "110",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "87",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "37",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "20",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "17",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "16",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "7",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "4",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "4",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "4",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "3",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "2",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "2",
+                "comments": "MEC"
+            },
+            {
+                "district": "Likoma",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "2",
+                "comments": "MEC"
+            }
+        ],
+        "Lilongwe Citv": [
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "145908",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "112787",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "28570",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "4875",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "1597",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "1438",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "821",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "367",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "326",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "289",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "206",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "195",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "195",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "117",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "98",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "77",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Citv",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "65",
+                "comments": "MEC"
+            }
+        ],
+        "Lilongwe Rural": [
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "511625",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "45477",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "9066",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "8459",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "5362",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "3426",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "2879",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "2231",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "1816",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "1089",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "876",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "660",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "444",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "341",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "311",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "258",
+                "comments": "MEC"
+            },
+            {
+                "district": "Lilongwe Rural",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "165",
+                "comments": "MEC"
+            }
+        ],
+        "Luchenza Municipality": [
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "7547",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "336",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "232",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "81",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "32",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "20",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "16",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "15",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "9",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "6",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "6",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "3",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "2",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "2",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "2",
+                "comments": "MEC"
+            },
+            {
+                "district": "Luchenza Municipality",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "1",
+                "comments": "MEC"
+            }
+        ],
+        "Machinga": [
+            {
+                "district": "Machinga",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "177387",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "10598",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "4541",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "2492",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "2480",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "626",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "599",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "526",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "463",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "422",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "388",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "309",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "139",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "116",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "72",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "68",
+                "comments": "MEC"
+            },
+            {
+                "district": "Machinga",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "54",
+                "comments": "MEC"
+            }
+        ],
+        "Mangochi": [
+            {
+                "district": "Mangochi",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "257098",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "23091",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "10080",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "5020",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "3712",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "1218",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "1176",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "1099",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "978",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "830",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "638",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "600",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "264",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "255",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "127",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "126",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "93",
+                "comments": "MEC"
+            }
+        ],
+        "Mangochi Municipality": [
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "22113",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "3069",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "1290",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "880",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "173",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "80",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "71",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "55",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "38",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "30",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "28",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "20",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "16",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "7",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "6",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "2",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mangochi Municipality",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "2",
+                "comments": "MEC"
+            }
+        ],
+        "Mchinji": [
+            {
+                "district": "Mchinji",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "126187",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "30160",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "4294",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "2538",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "2384",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "1270",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "1162",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "710",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "376",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "354",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "334",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "290",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "215",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "140",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "119",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "98",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mchinji",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "55",
+                "comments": "MEC"
+            }
+        ],
+        "Mulanje": [
+            {
+                "district": "Mulanje",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "207596",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "6777",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "3195",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "2923",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "2579",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "692",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "575",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "375",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "343",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "334",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "239",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "238",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "229",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "190",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "96",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "81",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mulanje",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "50",
+                "comments": "MEC"
+            }
+        ],
+        "Mwanza": [
+            {
+                "district": "Mwanza",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "30576",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "2228",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "2203",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "533",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "463",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "130",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "126",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "104",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "95",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "84",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "81",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "67",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "35",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "25",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "22",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "19",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mwanza",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "10",
+                "comments": "MEC"
+            }
+        ],
+        "Mzimba": [
+            {
+                "district": "Mzimba",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "118117",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "91509",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "20182",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "19876",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "2774",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "2501",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "1999",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "1301",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "911",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "695",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "525",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "370",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "326",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "322",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "141",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "128",
+                "comments": "MEC"
+            },
+            {
+                "district": "Mzimba",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "94",
+                "comments": "MEC"
+            }
+        ],
+        "Neno": [
+            {
+                "district": "Neno",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "36607",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "1370",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "1024",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "544",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "358",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "127",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "127",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "110",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "95",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "88",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "68",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "46",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "39",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "25",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "13",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "11",
+                "comments": "MEC"
+            },
+            {
+                "district": "Neno",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "11",
+                "comments": "MEC"
+            }
+        ],
+        "Nkhata Bay": [
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "39813",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "15903",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "6946",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "5041",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "845",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "491",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "488",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "387",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "261",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "166",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "143",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "90",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "87",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "70",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "28",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "27",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhata Bay",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "22",
+                "comments": "MEC"
+            }
+        ],
+        "Nkhotakota": [
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "52259",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "50776",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "2866",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "1801",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "1696",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "1175",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "565",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "460",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "358",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "330",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "230",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "176",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "97",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "89",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "71",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "59",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nkhotakota",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "54",
+                "comments": "MEC"
+            }
+        ],
+        "Nsanje": [
+            {
+                "district": "Nsanje",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "93197",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "10063",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "1619",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "1584",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "689",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "512",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "428",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "383",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "366",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "304",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "209",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "204",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "105",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "104",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "66",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "54",
+                "comments": "MEC"
+            },
+            {
+                "district": "Nsanje",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "36",
+                "comments": "MEC"
+            }
+        ],
+        "Ntcheu": [
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "107432",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "14291",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "9095",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "2015",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "954",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "561",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "480",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "453",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "371",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "342",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "320",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "256",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "145",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "119",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "68",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "60",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntcheu",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "59",
+                "comments": "MEC"
+            }
+        ],
+        "Ntchisi": [
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "81635",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "11356",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "2671",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "2006",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "1593",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "722",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "533",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "350",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "197",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "149",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "144",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "129",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "111",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "89",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "50",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "38",
+                "comments": "MEC"
+            },
+            {
+                "district": "Ntchisi",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "32",
+                "comments": "MEC"
+            }
+        ],
+        "Phalombe": [
+            {
+                "district": "Phalombe",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "134205",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "2305",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "2032",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "950",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "548",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "348",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "246",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "242",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "182",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "148",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "132",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "129",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "126",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "77",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "37",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "24",
+                "comments": "MEC"
+            },
+            {
+                "district": "Phalombe",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "20",
+                "comments": "MEC"
+            }
+        ],
+        "Rumphi": [
+            {
+                "district": "Rumphi",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "29957",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "24486",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "6627",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "3066",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "530",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "518",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "417",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "242",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "223",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "115",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "114",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "97",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "74",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "67",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "26",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "19",
+                "comments": "MEC"
+            },
+            {
+                "district": "Rumphi",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "14",
+                "comments": "MEC"
+            }
+        ],
+        "Salima": [
+            {
+                "district": "Salima",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "60830",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "49443",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "3673",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "3220",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "1593",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "1291",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "720",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "603",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "376",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "361",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "302",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "291",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "109",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "106",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "82",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "61",
+                "comments": "MEC"
+            },
+            {
+                "district": "Salima",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "54",
+                "comments": "MEC"
+            }
+        ],
+        "Thyolo": [
+            {
+                "district": "Thyolo",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "200131",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "2943",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "2516",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "2463",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "574",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "552",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "371",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "339",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "275",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "255",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "207",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "178",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "122",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "106",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "48",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "44",
+                "comments": "MEC"
+            },
+            {
+                "district": "Thyolo",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "31",
+                "comments": "MEC"
+            }
+        ],
+        "Zomba": [
+            {
+                "district": "Zomba",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "213241",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "5676",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "5624",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "4414",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "3761",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "696",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "586",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "548",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "482",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "375",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "371",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "336",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "215",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "181",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "81",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "68",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "65",
+                "comments": "MEC"
+            }
+        ],
+        "Zomba City": [
+            {
+                "district": "Zomba City",
+                "candidate_name": "Muthalika P",
+                "gender": "M",
+                "party": "Democratic Progressive Party",
+                "votes": "35536",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Kabambe D",
+                "gender": "M",
+                "party": "UTM Party",
+                "votes": "3990",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Chakwera L",
+                "gender": "M",
+                "party": "Malawi Congress Party",
+                "votes": "3472",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Muluzi A",
+                "gender": "M",
+                "party": "United Democratic Front",
+                "votes": "738",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Banda J",
+                "gender": "F",
+                "party": "People's Party",
+                "votes": "326",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Usi M.B\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Odya Zake\r\n",
+                "votes": "172",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Banda T.M\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "58",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Mvula P\r\n\r\n\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n",
+                "votes": "51",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Bandawe A",
+                "gender": "M",
+                "party": "Anyamata,Atsikana,Azimayi\r\n\r\n\r\n ",
+                "votes": "49",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Nankhumwa K",
+                "gender": "M",
+                "party": "Peoples Development Party",
+                "votes": "38",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Chibambo KW\r\n",
+                "gender": "M",
+                "party": "Peoples Transformation Party\r\n\r\n\r\n ",
+                "votes": "36",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Chilungo AJ\r\n",
+                "gender": "M",
+                "party": "Independent ",
+                "votes": "35",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Chipojola CF\r\n",
+                "gender": "M",
+                "party": "Independent \r\n",
+                "votes": "31",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Mwenifumbo F\r\n",
+                "gender": "M",
+                "party": "National Development Party\r\n ",
+                "votes": "11",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Swira S\r\n\r\n",
+                "gender": "M",
+                "party": "Independent\r\n\r\n\r\n ",
+                "votes": "10",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Tobias M",
+                "gender": "M",
+                "party": "Independent",
+                "votes": "7",
+                "comments": "MEC"
+            },
+            {
+                "district": "Zomba City",
+                "candidate_name": "Sauti J\r\n",
+                "gender": "M",
+                "party": "Patriotic Citizens Party ",
+                "votes": "6",
+                "comments": "MEC"
+            }
+        ]
+}

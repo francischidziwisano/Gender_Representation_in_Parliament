@@ -1,0 +1,310 @@
+constituency_id,constituency_name,district_id,candidate_name,votes,percentage,gender,total_registered,banned_votes,votes_cast
+1,Balaka Bwaila,1,IND – Drfletcher Luka Padoko,13574,56.75,1,29770,373,23921
+1,Balaka Bwaila,1,DPP – Jonah Derick Pankuku,4161,17.39,1,29770,373,23921
+3,Balaka Mulunguzi,1,IND – Ireen Mambala,8433,30.2,0,35035,329,27925
+3,Balaka Mulunguzi,1,DPP – James Makhumula,8130,29.11,1,35035,329,27925
+4,Balaka Ngwangwa,1,DPP – John Jackson Bamusi,14283,56.92,1,31743,276,25093
+4,Balaka Ngwangwa,1,IND – Antony Tony Ngalande,8039,32.04,1,31743,276,25093
+6,Balaka Rivirivi,1,DPP – Chifundo Makande,12964,40.54,1,39526,452,31976
+6,Balaka Rivirivi,1,IND – Khalida Tuzija,12007,37.55,0,39526,452,31976
+8,Balaka Ulongwe,1,DPP – Idrissa Ngunga,13603,51.92,1,33953,348,26202
+8,Balaka Ulongwe,1,IND – Judith Laja Ngwira,8485,32.38,0,33953,348,26202
+11,Blantyre Central,2,IND – Gerald Cornelius Tasaukadala,8016,36.86,1,26788,302,21745
+11,Blantyre Central,2,DPP – Robert Mbedza,4996,22.98,1,26788,302,21745
+14,Blantyre City Chichiri Misesa,2,DPP – Themba Menson Mkandawire,12462,43.9,1,35107,360,28388
+14,Blantyre City Chichiri Misesa,2,IND – Louis George Ngalande,7423,26.15,1,35107,360,28388
+15,Blantyre City Chigumula Bca Club Banana,3,DPP – Sameer Gaffar Suleman,22484,86.8,1,31125,332,25902
+15,Blantyre City Chigumula Bca Club Banana,3,IND – Wild James Ndipo,2195,8.47,1,31125,332,25902
+16,Blantyre City Chilomoni Kabula Nancholi,3,DPP – Noel Lipipa,20472,117.2,1,37250,204,17468
+16,Blantyre City Chilomoni Kabula Nancholi,3,MCP – Charles Harish Joshi,4316,24.71,1,37250,204,17468
+18,Blantyre City Mapanga Mpingwe Mzedi,3,DPP – Katika Justice,13443,53.14,1,30476,320,25297
+18,Blantyre City Mapanga Mpingwe Mzedi,3,IND – Orphan Shaba,8597,33.98,1,30476,320,25297
+19,Blantyre City Mbayani mussa Magasa,3,DPP – Masauko Golden Salinjeni,6081,34.81,1,21291,204,17468
+19,Blantyre City Mbayani mussa Magasa,3,UDF – Jan-Jaap Jakobus Sonke,5375,30.77,1,21291,204,17468
+20,Blantyre City Michiru chirimba,3,DPP – Lasken Vinyo Vigaro,8161,42.44,1,24117,334,19230
+20,Blantyre City Michiru chirimba,3,IND – James Nephano Zuze,7543,39.23,1,24117,334,19230
+22,Blantyre City Nkolokoti ndirande Matope,3,IND – John Francis Bande,8608,32.94,1,32245,259,26136
+22,Blantyre City Nkolokoti ndirande Matope,3,DPP – Chipiliro Brian Mpinganjira,7192,27.52,1,32245,259,26136
+23,Blantyre City Soche zingwangwa,3,UTM – Fred Penjani Kamlepo Kalua,10337,40.72,1,31728,312,25384
+23,Blantyre City Soche zingwangwa,3,DPP – Rodwell Rodrick Ngalande,10072,39.68,1,31728,312,25384
+27,Blantyre City South Lunzu,3,DPP – Veronica Pempho Ndalama,8547,35.35,0,30134,355,24181
+27,Blantyre City South Lunzu,3,IND – Rashid Abdul Gaffar,7672,31.73,1,30134,355,24181
+32,Blantyre North East,3,IND – Klaus Clous Chikufenji,13651,44.56,1,37259,385,30634
+32,Blantyre North East,3,DPP – Susan Ndalama,7342,23.97,0,37259,385,30634
+34,Blantyre South East,3,IND – Jeremiah Jumbe,9113,44.61,1,0,377,20427
+34,Blantyre South East,3,DPP – Alfred Chapulapula,6765,33.12,1,0,377,20427
+35,Blantyre South West,3,MCP – Happy Chirwa,0,0,1,26772,0,0
+35,Blantyre South West,3,IND – John Eugenes Chisi,0,0,1,26772,0,0
+35,Blantyre South West,3,DPP – Kennedy Pemba Kachingwe,0,0,1,26772,0,0
+35,Blantyre South West,3,UTM – Robson Amberton Kunyumbu,0,0,1,26772,0,0
+35,Blantyre South West,3,UDF – Mussa Lilomba,0,0,1,26772,0,0
+35,Blantyre South West,3,IND – Redson Makwinja,0,0,1,26772,0,0
+35,Blantyre South West,3,IND – Elliot John Mankhamba-Phiri,0,0,1,26772,0,0
+35,Blantyre South West,3,IND – Harry Nkhuku,0,0,1,26772,0,0
+35,Blantyre South West,3,IND – Montfort Junior Phalula,0,0,1,26772,0,0
+35,Blantyre South West,3,IND – Minnie Yvonne Somba,0,0,0,26772,0,0
+35,Blantyre South West,3,IND – Eva Mary Thamanga,0,0,0,26772,0,0
+36,Blantyre West,3,MCP – Micheal Izeck Chisala,0,0,1,21939,0,0
+36,Blantyre West,3,IND – Mavuto Mapongo Gulo,0,0,1,21939,0,0
+36,Blantyre West,3,IND – Dexton Mphatso Gunsalu,0,0,1,21939,0,0
+36,Blantyre West,3,IND – Stella Tinenenji Jamu,0,0,0,21939,0,0
+36,Blantyre West,3,IND – Nicholas Kachingwe,0,0,1,21939,0,0
+36,Blantyre West,3,PPM – Turnson Kaliza,0,0,1,21939,0,0
+36,Blantyre West,3,IND – Jason Isaac Kaneka,0,0,1,21939,0,0
+36,Blantyre West,3,UTM – Annie Exilda Kazembe,0,0,0,21939,0,0
+36,Blantyre West,3,Odya zake – Vinniey Kumitete,0,0,0,21939,0,0
+36,Blantyre West,3,DPP – Peter Kumpalume,0,0,1,21939,0,0
+36,Blantyre West,3,IND – Lista Masamba,0,0,0,21939,0,0
+36,Blantyre West,3,UDF – Dija Magret Mussa,0,0,0,21939,0,0
+37,Chikwawa Central,4,IND – Gerald Bede,10186,32.92,1,39542,583,30942
+37,Chikwawa Central,4,DPP – Enock John Malunga,7248,23.42,1,39542,583,30942
+38,Chikwawa Central West,4,DPP – George Qoma,14716,52.88,1,35366,573,27827
+38,Chikwawa Central West,4,IND – Samuel Office,9895,35.56,1,35366,573,27827
+39,Chikwawa East,4,DPP – Ginford Mabo Maulidi,10390,38.08,1,36534,635,27283
+39,Chikwawa East,4,IND – Tamara Nyahoda,5895,21.61,0,36534,635,27283
+40,Chikwawa Nkombedzi,4,DPP – Lloyd Laxton Enos Malola,12218,37.62,1,42390,706,32480
+40,Chikwawa Nkombedzi,4,MCP – Abida Sidik Mia,7687,23.67,0,42390,706,32480
+41,Chikwawa North,4,IND – Geoffrey Mulantinyu Onsewa,8248,31.23,1,32948,459,26408
+41,Chikwawa North,4,DPP – Lynda Lyndiwe Khembo,6654,25.2,0,32948,459,26408
+43,Chikwawa West,4,IND – Susan Dossi,15729,52.99,0,40685,806,29682
+43,Chikwawa West,4,DPP – Joseph Chadeleka,6422,21.64,1,40685,806,29682
+46,Chiradzulu Masanjala,5,DPP – Tony Fletcher,16117,61.58,1,31127,453,26174
+46,Chiradzulu Masanjala,5,IND – Rockie Praise Chipenembe,3974,15.18,1,31127,453,26174
+47,Chiradzulu Midima,5,DPP – Jean Chifuniro Mathanga,8340,33.76,0,28928,351,24702
+47,Chiradzulu Midima,5,IND – Felix Clement Namisawo,5884,23.82,1,28928,351,24702
+48,Chiradzulu Nguludi,5,DPP – Mctimes Pagonanji Malowa,14392,58.7,1,28154,299,24518
+48,Chiradzulu Nguludi,5,UTM – Mwayi Lancy Mbewe,4838,19.73,1,28154,299,24518
+50,Chiradzulu Nyungwe,5,DPP – Macpherson Mwayi Ndalama,20089,82.7,1,28650,291,24291
+50,Chiradzulu Nyungwe,5,IND – Matthews Ngwale,1296,5.34,1,28650,291,24291
+52,Chiradzulu Thumbwe,5,DPP – Joseph Mathyola Mwanamveka,19304,75.05,1,30021,372,25720
+52,Chiradzulu Thumbwe,5,IND – Ron Richard Muphuwa,3116,12.12,1,30021,372,25720
+54,Chitipa Central,6,IND – Fiskani Barnet Nyondo,6899,47.58,1,18158,65,14500
+54,Chitipa Central,6,MCP – Alinubwila Mwenesongole,3934,27.13,1,18158,65,14500
+55,Chitipa Chendo,6,UTM – Moses Ramsey Mlenga,5981,44.95,1,17370,80,13307
+55,Chitipa Chendo,6,IND – Davies Paulos Ng’ambi,4989,37.49,1,17370,80,13307
+56,Chitipa East,6,IND – Kenson Malanga,7331,53.38,1,16195,80,13733
+56,Chitipa East,6,MCP – kezzie msukwa,5205,37.9,,16195,80,13733
+57,Chitipa North,6,IND – Faless Debrah Moyo,5311,51.22,0,14485,89,10370
+57,Chitipa North,6,MCP – Isaac Mwepa,3228,31.13,1,14485,89,10370
+58,Chitipa South,6,IND – Chance Munthali,12820,81.23,1,20772,106,15782
+58,Chitipa South,6,DPP – Limbikani Mhango Stanley,1894,12,1,20772,106,15782
+60,Dedza Boma,7,IND – Howard Mzambweuluemba,6168,28.48,1,30918,350,21659
+60,Dedza Boma,7,MCP – Gerald Bartholomew Kampanikiza,6103,28.18,1,30918,350,21659
+63,Dedza Chikoma,7,MCP – Auzious John Chidovu,13029,49.58,1,36670,562,26278
+63,Dedza Chikoma,7,IND – Maloto Malovi Kapanganeni,6823,25.96,1,36670,562,26278
+64,Dedza Dzalanyama,7,IND – Morris Harrison Chikafa,11615,50.65,1,37443,449,22930
+64,Dedza Dzalanyama,7,MCP – Godfrey Chisoni,7271,31.71,1,37443,449,22930
+66,Dedza Golomoti,7,IND – Allan Esau Phiri,10570,46.89,1,32851,1000,22544
+66,Dedza Golomoti,7,IND – Madalitso Veronica Mainja,4205,18.65,0,32851,1000,22544
+67,Dedza Kasina,7,MCP – Joshua Masanza Malango,13326,45.18,1,40486,492,29496
+67,Dedza Kasina,7,IND – Donald Tatha Kazanga,8200,27.8,1,40486,492,29496
+68,Dedza Linthipe,7,IND – Jacob Joseph Kaumphawi,17020,54.83,1,40876,684,31042
+68,Dedza Linthipe,7,MCP – Themuka Mkhwewu,8190,26.38,1,40876,684,31042
+69,Dedza Mayani,7,IND – Savel Kafwafwa,14199,47.43,1,42103,490,29936
+69,Dedza Mayani,7,MCP – Patrick Zebron Chilondola,11790,39.38,1,42103,490,29936
+70,Dedza Mlunduni,7,MCP – Moses Kunkuyu Kalongashawa,13448,46.43,1,38396,831,28967
+70,Dedza Mlunduni,7,IND – Ishmael Onani,11557,39.9,1,38396,831,28967
+71,Dedza Mphunzi,7,IND – Emmanuel Mawindo,9338,42.15,1,33565,408,22154
+71,Dedza Mphunzi,7,MCP – Clement Claude Mlombwa,7040,31.78,1,33565,408,22154
+72,Dedza Mtakataka,7,MCP – Patrick Siyabonga Bandawe,8837,56.56,1,21875,300,15624
+72,Dedza Mtakataka,7,IND – Nancystella Kaendera Maluza,3830,24.51,0,21875,300,15624
+78,Dowa Central,8,IND – Annie Namani Chibwana,19085,77.17,0,34770,306,24731
+78,Dowa Central,8,MCP – Darlington Robert Harawa,5647,22.83,1,34770,306,24731
+79,Dowa Central East,8,IND – Mike Chipala,11592,58.53,1,28104,369,19806
+79,Dowa Central East,8,MCP – Martin Luka,5587,28.21,1,28104,369,19806
+80,Dowa East,8,MCP – Richard William Chimwendo,25111,46.64,1,40731,0,53839
+80,Dowa East,8,IND – Annie Namani Chibwana,19085,35.45,0,40731,0,53839
+81,Dowa Kasangadzi,8,MCP – George Jivason Kadzipatike,18006,75.07,1,33153,259,23986
+81,Dowa Kasangadzi,8,IND – Enos Kanyerere Chitatanga,5980,24.93,1,33153,259,23986
+82,Dowa Mndolera,8,IND – Kendall Zivile Kamwendo,14381,58.18,1,30744,350,24720
+82,Dowa Mndolera,8,MCP – Ephraim Kayembe Abele,7346,29.72,1,30744,350,24720
+83,Dowa Mphudzu,8,MCP – Arthur Martin Sungitsa,12068,49.78,1,34205,331,24243
+83,Dowa Mphudzu,8,IND – Chunala Alexico Njombwa,6944,28.64,1,34205,331,24243
+84,Dowa Ngala,8,IND – Rodwell Khombeni,6200,26.98,1,33954,380,22980
+84,Dowa Ngala,8,MCP – Elias Watson Jani Chakwera,5621,24.46,1,33954,380,22980
+86,Dowa North East,8,MCP – Samuel Dalitso Kawale,12142,51.57,1,33296,392,23544
+86,Dowa North East,8,IND – Godfrey Charles Chimdzeka,10343,43.93,1,33296,392,23544
+87,Dowa South East,8,IND – Hope Tionge Zamba,26756,85.49,0,43796,519,31299
+87,Dowa South East,8,MCP – Halima Daud,3997,12.77,0,43796,519,31299
+88,Dowa West,8,IND – Aida Chitsosa Mchenga,14254,52.38,0,34542,513,27215
+88,Dowa West,8,MCP – Alexander Kusamba Dzonzi,12849,47.21,1,34542,513,27215
+89,Karonga Central,9,NDP – Frank Tumpale Mwenifumbo,7802,57.4,1,20657,147,13592
+89,Karonga Central,9,DPP – Willard Mwangonde,2407,17.71,1,20657,147,13592
+93,Karonga Nyungwe,10,UTM – Kenneth Ndovie,6985,35.1,1,29747,146,19898
+93,Karonga Nyungwe,10,DPP – Wilson Woodrow Sichali,6522,32.78,1,29747,146,19898
+94,Karonga Songwe,10,MCP – Mungasulwa Mwambande,6506,51.6,1,19238,103,12609
+94,Karonga Songwe,10,IND – Vincent Winstone Ghambi,3608,28.61,1,19238,103,12609
+95,Karonga South,10,PP – Duncan Kaonga,17198,77.93,1,30148,132,22068
+95,Karonga South,10,MCP – Uchizi Vunda Mkandawire,3319,15.04,1,30148,132,22068
+96,Karonga Town,10,MCP – Daniel Chitonya,9434,52.33,1,26702,158,18029
+96,Karonga Town,10,UTM – Felix Katwaff Kaira,4835,26.82,1,26702,158,18029
+97,Kasungu Central,11,MCP – Chikondi Chisale,13194,54.41,1,36932,323,24250
+97,Kasungu Central,11,IND – Michael John Kalukusha,6617,27.29,1,36932,323,24250
+98,Kasungu East,11,IND – Felix Nkhoma,11092,48.16,1,36105,262,23032
+98,Kasungu East,11,MCP – Madalitso Fred Kwaderanji Kazombo,9836,42.71,1,36105,262,23032
+99,Kasungu Municipality,11,IND – Noel Kaputa Mkubwi,7109,38.68,1,25645,198,18380
+99,Kasungu Municipality,11,DPP – Alfred H.A. Manyusa,4235,23.04,1,25645,198,18380
+100,Kasungu North,11,PP – Beatrice Roseby Mwale,11537,45.35,0,36823,994,25440
+100,Kasungu North,11,MCP – Mike Bango Chirwa,10517,41.34,1,36823,994,25440
+101,Kasungu North East,11,MCP – Madalitso Wirima Kambauwa,10101,48.79,0,32782,317,20704
+101,Kasungu North East,11,IND – Steve Mikaya,9008,43.51,1,32782,317,20704
+103,Kasungu North West,11,MCP – Jailosi Kalenje Bonongwe,8101,30.14,1,40680,383,26876
+103,Kasungu North West,11,MCP – Emmanuel Joseph Mseteka,7685,28.59,1,40680,383,26876
+104,Kasungu South,11,MCP – Simplex E.D. Chithyola,12349,49.32,1,33201,322,25039
+104,Kasungu South,11,IND – Joseph Manguluti,11817,47.19,1,33201,322,25039
+105,Kasungu South East,12,IND – Golden Chizimba Msilimba,13947,60.71,1,31910,275,22973
+105,Kasungu South East,12,MCP – Khumbize Kandodo Chiponda,4724,20.56,0,31910,275,22973
+106,Kasungu South West,12,IND – Jekapu Mirriam,9206,44.03,,31293,354,20908
+106,Kasungu South West,12,IND – Alex Chakwanila Major,2409,11.52,1,31293,354,20908
+107,Kasungu West,12,IND – Brian S.C. Mwale,6380,39.62,1,40680,0,16104
+107,Kasungu West,12,DPP – Paul Sunganani Gadama,4098,25.45,1,40680,0,16104
+108,Likoma Islands,13,DPP – Charles Chilambula,3172,46.22,1,8664,68,6863
+108,Likoma Islands,13,MCP – Ashems Christopher Songwe,2458,35.82,1,8664,68,6863
+109,Lilongwe Bunda,14,MCP – Maria Kambuzi,12689,47.08,0,39829,479,26952
+109,Lilongwe Bunda,14,IND – Edgar Beonface Chipalanjira,6858,25.45,1,39829,479,26952
+110,Lilongwe Central,14,MCP – Jimion Nyanda,12219,42.17,1,44189,697,28978
+110,Lilongwe Central,14,IND – Patrick Nathan Nangwale,7868,27.15,1,44189,697,28978
+112,Lilongwe Chiwamba,14,MCP – Winston Kaimapanjira,26474,63.94,1,55070,736,41402
+112,Lilongwe Chiwamba,14,IND – Ashan Christopher Kapulula,10409,25.14,1,55070,736,41402
+113,Lilongwe City Bwaila,14,MCP – Precious Pempho Gama Kabambe,8199,31.26,1,36249,485,26230
+113,Lilongwe City Bwaila,14,DPP – Mike Chimzukira,7974,30.4,1,36249,485,26230
+115,Lilongwe City Centre,14,UTM – Stella Thandie Warren,32000,95.58,0,46800,663,33480
+115,Lilongwe City Centre,14,MCP – Gift Nankhuni,15002,44.81,1,46800,663,33480
+116,Lilongwe City Chipala Nafisi,14,DPP – Frtank Kingsley Chimwaza,8117,34.36,1,32199,367,23623
+116,Lilongwe City Chipala Nafisi,14,MCP – Esther Salimu,6999,29.63,0,32199,367,23623
+117,Lilongwe City Dzenza,14,MCP – Jonathan Kabulanda Mfune,8714,33.3,1,35451,351,26167
+117,Lilongwe City Dzenza,14,DPP – Andrew Chiyamiko Chikwakwa,6096,23.3,1,35451,351,26167
+118,Lilongwe City Kamphuno,14,IND – Khadija Leah Chunga,6020,26.28,0,32473,503,22911
+118,Lilongwe City Kamphuno,14,DPP – Clement Chancy Mwale,5838,25.48,1,32473,503,22911
+119,Lilongwe City Lumbadzi,14,MCP – Denis Chalera Kalekeni,9426,34.17,1,39506,647,27585
+119,Lilongwe City Lumbadzi,14,IND – Paul Mekani,7443,26.98,1,39506,647,27585
+121,Lilongwe City Masintha,14,MCP – Juliana Kaduya,6000,22.39,0,34962,411,26795
+121,Lilongwe City Masintha,14,DPP – Fackson Chipapa Walapa,5129,19.14,1,34962,411,26795
+122,Lilongwe City Mlodza,14,MCP – Ulemu Msungama,6911,29.48,1,30751,273,23446
+122,Lilongwe City Mlodza,14,IND – Richard Banda,5139,21.92,1,30751,273,23446
+123,Lilongwe City Mtandire Mtsiriza,14,DPP – Alfred Ruwani Gangata,12289,44.56,1,37617,445,27578
+123,Lilongwe City Mtandire Mtsiriza,14,MCP – George Charles Zulu,12284,44.54,1,37617,445,27578
+124,Lilongwe City Nankhaka,14,DPP – Patricia Wiskes,6582,32.81,0,26981,280,20063
+124,Lilongwe City Nankhaka,14,MCP – Alfred Nkhoma Jiya,5860,29.21,1,26981,280,20063
+125,Lilongwe City Ngwenya,14,MCP – Nancy Gladys Tembo,8144,37.4,0,31093,551,21775
+125,Lilongwe City Ngwenya,14,DPP – Edward Makaiko Mvoliwa,8042,36.93,1,31093,551,21775
+131,Lilongwe Demera,14,MCP – Monica Amon Chang’anamuno,15969,38.95,0,51447,651,40995
+131,Lilongwe Demera,14,IND – Yamiko Joseph Chibwe,9724,23.72,1,51447,651,40995
+132,Lilongwe East,14,IND – Young Aubrey Nasson Phiri,11405,58.4,1,25453,587,19528
+132,Lilongwe East,14,MCP – Ezekiel Peter Ching’oma,6692,34.27,1,25453,587,19528
+134,Lilongwe Likuni,14,IND – Kelvin Mphande,18649,64.36,1,44189,697,28978
+134,Lilongwe Likuni,14,MCP – Jean Muonaowuza Sendeza,11250,38.82,0,44189,697,28978
+135,Lilongwe Machenga,14,MCP – Marko Ezra Banda Ching’onga,11273,48.23,1,34470,448,23375
+135,Lilongwe Machenga,14,IND – Gladwell Mphatso Majekete,8263,35.35,1,34470,448,23375
+136,Lilongwe Mapuyu North,14,IND – Mcandrews Mtanga Maunda,20234,52.93,1,52089,801,38225
+136,Lilongwe Mapuyu North,14,MCP – Horace Levas Chipuwa,7450,19.49,1,52089,801,38225
+137,Lilongwe Mapuyu South,14,MCP – Edward Chileka Banda,13557,42.84,1,44940,499,31644
+137,Lilongwe Mapuyu South,14,IND – Catherine Gollen Majamanda,12579,39.75,0,44940,499,31644
+138,Lilongwe Mpenu,14,MCP – Eisenhower Nduwa-Saxon Mkaka,9071,38.92,1,34125,470,23307
+138,Lilongwe Mpenu,14,DPP – David Kambalame,5736,24.61,1,34125,470,23307
+142,Lilongwe Msinja North,14,MCP – Bintony Kutsaira,11570,49.88,1,36273,532,23197
+142,Lilongwe Msinja North,14,IND – Vanwyk Khobidi Mbubzi Chikasanda,11419,49.23,1,36273,532,23197
+143,Lilongwe Msinja South,14,MCP – Francis Chikumbutso Belekanyama,15132,53.13,1,43351,625,28483
+143,Lilongwe Msinja South,14,IND – Onyx Msachiwa,11185,39.27,1,43351,625,28483
+144,Lilongwe Msozi,14,MCP – Sosten Alfred Gwengwe,19054,65.46,1,37074,627,29107
+144,Lilongwe Msozi,14,IND – Liana Chapota,9377,32.22,0,37074,627,29107
+147,Lilongwe Mude,14,MCP – Mphatso Jones Botiphiri,32079,73.24,1,54205,881,43801
+147,Lilongwe Mude,14,IND – Judith Zaina Nkhwangwi,9113,20.81,0,54205,881,43801
+148,Lilongwe Nkhoma,14,IND – Pilirani Kaphagawani Buleya,10732,51.75,0,36724,606,20739
+148,Lilongwe Nkhoma,14,MCP – Collins John Fletcher Kajawa,8042,38.78,1,36724,606,20739
+152,Lilongwe Nyanja,14,MCP – Steven Baba Malondera Kamsiyamo,20921,75.61,1,35295,667,27668
+152,Lilongwe Nyanja,14,IND – Willard Alfred Gwengwe,6048,21.86,1,35295,667,27668
+153,Lilongwe Phirilanjuzi,15,MCP – Peter Dimba,11048,44.15,1,38804,548,25024
+153,Lilongwe Phirilanjuzi,15,IND – Damiano Kamtsekero,9109,36.4,1,38804,548,25024
+159,Machinga Central,16,DPP – Samuel Malume Bokosi,10461,50.42,1,25881,243,20746
+159,Machinga Central,16,IND – Imran Cassim,7437,35.85,1,25881,243,20746
+160,Machinga Central East,16,DPP – Daudi Al Deen Chikwanje,14795,59.49,1,30496,437,24868
+160,Machinga Central East,16,UTM – Patrick Abdulazizi Kapolo,8097,32.56,1,30496,437,24868
+161,Machinga East,16,UDF – Esther Jolobala,15766,57.58,0,33928,551,27380
+161,Machinga East,16,DPP – Fezile Kadawati,8098,29.58,1,33928,551,27380
+162,Machinga Likwenu,16,UDF – Tulinje Muluzi,7728,36.54,1,26344,245,21152
+162,Machinga Likwenu,16,DPP – Bright Msaka,5116,24.19,1,26344,245,21152
+163,Machinga Mikoko,16,DPP – Jaffalie Mussa,5438,22.84,1,29665,642,23804
+163,Machinga Mikoko,16,IND – Ibrahim Rajab Ojess,4388,18.43,1,29665,642,23804
+165,Machinga North East,16,IND – Tailos Abdul Majid Bakili,9013,32.04,1,36344,633,28132
+165,Machinga North East,16,DPP – Sharie Mapasa,8616,30.63,1,36344,633,28132
+167,Machinga South,16,DPP – Richard Shukurani Kalitendere,11824,43.39,1,33931,422,27252
+167,Machinga South,16,UDF – Grant Hassan Ndecha,6222,22.83,1,33931,422,27252
+168,Machinga South East,16,IND – Donnex Poison Mpuzeni,7703,26.55,1,36587,705,29017
+168,Machinga South East,16,IND – Sherief Jerald Mponda,5112,17.62,1,36587,705,29017
+170,Mangochi Central,17,DPP – Roza Madaro Mbilizi,11802,46.78,0,33149,369,25227
+170,Mangochi Central,17,IND – Victoria Kingstone,9629,38.17,0,33149,369,25227
+171,Mangochi East,17,IND – Jackson Allie Daud Mataka,5893,25.11,1,33243,493,23468
+171,Mangochi East,17,UDF – Abubakar Ali Mbaya,5529,23.56,1,33243,493,23468
+172,Mangochi Lutende,17,PP – Edrissa Pongolani Kazembe,3900,17.42,1,27777,467,22384
+172,Mangochi Lutende,17,UTM – Isaac Kazembe,1135,5.07,1,27777,467,22384
+173,Mangochi Malombe,17,DPP – Kazembe Wilson Ngunga,8843,42.48,1,28027,543,20819
+173,Mangochi Malombe,17,UTM – Dharban Keneth Chibwana,6035,28.99,1,28027,543,20819
+174,Mangochi Masongola,17,DPP – Ishmael Grant Rashid,10708,36.92,1,37834,624,29003
+174,Mangochi Masongola,17,IND – Shadreck Hassan,8486,29.26,1,37834,624,29003
+176,Mangochi Municipality,18,DPP – Rodrick Clement Chiwaya,10217,40.78,1,37840,385,25052
+176,Mangochi Municipality,18,UDF – Idi Kalosi,5204,20.77,1,37840,385,25052
+177,Mangochi Nkungulu,18,UDF – Aisha Annie Adams,12221,47.02,0,36088,713,25991
+177,Mangochi Nkungulu,18,DPP – Gerald Dickson White,5547,21.34,1,36088,713,25991
+178,Mangochi North,17,DPP – Ismail Pawila Kazembe,8820,37.38,1,31307,434,23594
+178,Mangochi North,17,IND – Ibrahim Imed Matola,7413,31.42,1,31307,434,23594
+179,Mangochi North East,17,DPP – Overton Saidi Saidi Imedi,11063,44.13,1,33078,539,25068
+179,Mangochi North East,17,IND – Martin Chikati Nyengo,3812,15.21,1,33078,539,25068
+180,Mangochi South,17,IND – Bilal Mussa Tambuli,10831,36.63,1,39179,558,29565
+180,Mangochi South,17,DPP – Ibrahim Mtukanika Rodrick,8704,29.44,1,39179,558,29565
+181,Mangochi South West,17,DPP – Shadreck Namalomba,7306,25.86,,37784,341,28255
+181,Mangochi South West,17,IND – Annie Shawa King,5276,18.67,0,37784,341,28255
+182,Mangochi West,17,DPP – Reuben Kanyama,15437,63.1,1,31932,243,24464
+182,Mangochi West,17,IND – Simeon Harrison,4495,18.37,1,31932,243,24464
+184,Mchinji Central East,19,MCP – Jephter Fackson Mwale,21903,75.25,1,44768,535,29107
+184,Mchinji Central East,19,DPP – Diana Raphael,4040,13.88,0,44768,535,29107
+185,Mchinji East,19,IND – Brown Mazombwe,14312,51.94,1,36586,368,27553
+185,Mchinji East,19,MCP – Godfrey Kapalamula,7209,26.16,1,36586,368,27553
+186,Mchinji North,19,MCP – Rachel Patience Mazombwe,11273,40.49,0,42421,580,27844
+186,Mchinji North,19,IND – Emmanuel Ghost Mbewe,6782,24.36,1,42421,580,27844
+187,Mchinji North East,19,MCP – Anthony Masamba,15536,64.74,1,34482,286,23998
+187,Mchinji North East,19,IND – Alex Kafala Chitete,4883,20.35,1,34482,286,23998
+188,Mchinji South,19,IND – Owen Malijani,10501,45.54,1,32375,265,23060
+188,Mchinji South,19,MCP – Agnes Nandi Nkusankhoma,6547,28.39,0,32375,265,23060
+189,Mchinji South West,19,MCP – Deus Texas Ndaziona Banda Gumba,10801,47.78,1,33041,490,22604
+189,Mchinji South West,19,IND – John Malunga,10551,46.68,1,33041,490,22604
+190,Mchinji West,19,IND – Rhita Sanga,8041,41.26,0,28932,234,19490
+190,Mchinji West,19,MCP – John Mussa Paul,7646,39.23,1,28932,234,19490
+191,Mulanje Bale,20,DPP – Victor Hetherwick Musowa,13622,66.33,1,27023,508,20537
+191,Mulanje Bale,20,IND – Brian Martin Coombes,3957,19.27,1,27023,508,20537
+192,Mulanje Central,20,PDP – Kondwani Nankhumwa,17635,62.48,1,35183,388,28227
+192,Mulanje Central,20,IND – Rhoda Mbamwabi Gadama,5563,19.71,0,35183,388,28227
+194,Mulanje Limbuli,20,IND – Godfrey Graciano Mbawa,18862,58.08,1,39743,472,32475
+194,Mulanje Limbuli,20,DPP – Daudi Abiyani Chida,9729,29.96,1,39743,472,32475
+195,Mulanje North,20,DPP – Gilbert Pilira Khonyongwa,14584,64.59,1,26928,368,22581
+195,Mulanje North,20,IND – Thomas Livison Seyani,4916,21.77,1,26928,368,22581
+198,Mulanje Pasani,20,IND – Marium Ajida,8534,35.51,0,28886,272,24030
+198,Mulanje Pasani,20,IND – Prince Inglis Mchenga,6788,28.25,1,28886,272,24030
+199,Mulanje South,20,DPP – Samson Santigo Phiri,22142,86.5,1,31127,346,25597
+199,Mulanje South,20,IND – Salaudin Moidin Jussab,1270,4.96,1,31127,346,25597
+200,Mulanje South East,20,IND – Booker Jones Matemvu,12962,48.92,1,32347,372,26498
+200,Mulanje South East,20,IND – Tiyamike Harold Goliati,6911,26.08,1,32347,372,26498
+201,Mulanje South West,20,DPP – George Chaponda,9887,45.59,1,27454,486,21685
+201,Mulanje South West,20,IND – Davie Mpaso,3884,17.91,1,27454,486,21685
+202,Mulanje West,20,UTM – Patricia Annie Kaliati,7785,30.04,0,31070,481,25917
+202,Mulanje West,20,DPP – Yusuf Witness Nthenda,7569,29.2,1,31070,481,25917
+203,Mwanza Central,21,UTM – Felix Njawala,9233,51.12,1,24367,227,18060
+203,Mwanza Central,21,IND – Nicholas Harry Dausi,3881,21.49,1,24367,227,18060
+206,Mwanza West,21,MCP – Maurine Chifundo Nseula,6360,32.93,0,26678,388,19311
+206,Mwanza West,21,DPP – Paul Lackson Zacaria Chibingu,4349,22.52,1,26678,388,19311
+221,Mzuzu City North,23,MCP – Frasco Paul Mkandawire,4988,29.54,1,23183,179,16884
+221,Mzuzu City North,23,IND – Lenard Zuka Mponda Njikho,3744,22.17,1,23183,179,16884
+222,Mzuzu City South East,23,IND – William Chikweta Kaweche,8136,35.97,1,30735,207,22620
+222,Mzuzu City South East,23,MCP – Bennex Mwamlima,5362,23.7,1,30735,207,22620
+223,Mzuzu City South West,23,IND – William Peter Mkandawire,10565,57.67,1,22711,132,18320
+223,Mzuzu City South West,23,DPP – Denis Garnet Moyo,2217,12.1,1,22711,132,18320
+224,Neno East,24,DPP – Mary Khembo Maulidi,3406,22.16,0,18651,163,15373
+224,Neno East,24,IND – Barry Hamilton Kasamba,2797,18.19,1,18651,163,15373
+225,Neno North,24,DPP – Thoko Matengambiri Tembo,11305,80.39,1,17755,131,14063
+225,Neno North,24,MCP – Frans Phiri,1710,12.16,1,17755,131,14063
+226,Neno South,24,DPP – Mutani Elliam Tambala,4841,41.94,0,14420,133,11542
+226,Neno South,24,IND – Henry Shamu,3806,32.98,1,14420,133,11542
+227,Nkhatabay Central,25,DPP – Symon Vuwa-Kaunda,5369,38.82,1,21115,117,13831
+227,Nkhatabay Central,25,IND – Raphael Joseph Mhone,5365,38.79,1,21115,117,13831
+228,Nkhatabay Chintheche,25,PP – Noah Freeman Chimpeni,3395,30.72,1,17121,164,11050
+228,Nkhatabay Chintheche,25,UTM – Wellington Julamu Mwale,2732,24.72,1,17121,164,11050

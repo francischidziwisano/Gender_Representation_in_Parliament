@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\gchid\\Documents\\Data Analytics\\Code\\DS_Projects\\Python\\MEC\\intermediate_dashboard",
+        "app_url": "https://2020electionsmalawi.shinyapps.io/2020malawielections/",
+        "app_id": 14961910,
+        "app_guid": null,
+        "title": "2020malawielections",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
