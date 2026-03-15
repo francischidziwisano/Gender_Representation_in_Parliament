@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\Francis\\Documents\\Projects\\Gender_Representation_in_Parliament",
+        "app_url": "https://nmvrin-francis-chidziwisano.shinyapps.io/gender_representation_in_parliament/",
+        "app_id": "16883392",
+        "app_guid": null,
+        "title": "Gender_Representation_in_Parliament",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
